@@ -28,3 +28,6 @@ An event-driven runbook that integrates with monitoring tools (e.g., Azure Monit
 ## Code
 
 The primary remediation logic is contained in `RB-2026-004-DiskCleanup.ps1`.
+
+<img width="2372" height="3342" alt="image" src="https://github.com/user-attachments/assets/361c392d-2fa1-40a3-966e-9727e92eb032" />
+
