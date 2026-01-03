@@ -1,4 +1,4 @@
-# Project: Self-Healing Disk Remediation via Hyperautomation
+# Self-Healing Disk Remediation
 
 > **Category:** Site Reliability Engineering (SRE) / IT Service Management (ITSM)  
 > **Stack:** PowerShell, JSON, YAML (for CI/CD), REST API
