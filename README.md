@@ -23,7 +23,7 @@ An event-driven runbook that integrates with monitoring tools (e.g., Azure Monit
 * **Threshold Validation:** Prevents "flapping" by re-verifying disk metrics before action.
 * **Intelligent Purge:** Cleans `C:\Windows\Temp` and rotates IIS logs older than 14 days.
 * **Verification Loop:** Re-checks metrics post-cleanup.
-* **Escalation Logic:** If the cleanup fails to recover space, it triggers a **Major Incident Management (MIM)** alert via Webhook.
+* **Escalation Logic:** Automated Webhook triggers **Major Incident Management (MIM)** if cleanup fails to recover space.
 
 ## Code
 
